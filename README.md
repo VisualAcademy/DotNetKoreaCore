@@ -9,7 +9,9 @@
 이 영상을 보면, 별도의 Git 명령어 없이도 **리포지토리 생성부터 협업의 기본 흐름(Commit → Push → 확인)** 을 한 번에 익힐 수 있습니다. 처음 깃허브를 시작하는 분, GUI로 빠르게 워크플로우를 체득하고 싶은 분께 적합합니다.
 
 사전 준비: GitHub 계정, GitHub 데스크톱, VS Code.
+
 실습 리포지토리: **DotNetKoreaCore**
+
 핵심 키워드: `github.new`, Clone, README edit, Commit, Push, Remote
 
 도구 다운로드
